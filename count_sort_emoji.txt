@@ -1,0 +1,2002 @@
+0**Heavy red heart**10444
+1**Face with tears of joy**7854
+2**Fire**6633
+3**Smiling face with heart-shaped eyes**5724
+4**Thumbs up sign**3498
+5**Party popper**3490
+6**Smiling face with smiling eyes**3424
+7**Person raising both hands in celebration**3282
+8**Sparkles**3153
+9**Clapping hands sign**2987
+10**Eyes**2770
+11**Camera**2550
+12**Soccer ball**2447
+13**Smiling face with sunglasses**2383
+14**Winking face**2365
+15**Right pointing backhand index**2351
+16**Camera with flash**2278
+17**Grinning face**2236
+18**Trophy**2144
+19**Rightwards arrow**2130
+20**Thinking face**2105
+21**Christmas tree**1994
+22**Blue heart**1956
+23**Grinning face with smiling eyes**1837
+24**Ok hand sign**1824
+25**Flexed biceps**1670
+26**High voltage sign**1659
+27**Two hearts**1639
+28**Collision symbol**1632
+29**Multiple musical notes**1560
+30**Hundred points symbol**1547
+31**Person with folded hands**1522
+32**Police cars revolving light**1465
+33**Loudly crying face**1404
+34**Down pointing backhand index**1395
+35**Movie camera**1331
+36**Flag of United States**1285
+37**Face throwing a kiss**1278
+38**Purple heart**1223
+39**Fisted hand sign**1218
+40**Snowflake**1179
+41**Jack-o-lantern**1145
+42**Face screaming in fear**1129
+43**Green heart**1105
+44**Person raising both hands in celebration (medium light skin tone)**1104
+45**Person raising both hands in celebration (light skin tone)**1075
+46**Thumbs up sign (light skin tone)**1069
+47**Smiling face with open mouth**1025
+48**Clinking beer mugs**988
+49**Hugging face**983
+50**Flushed face**980
+51**Face with stuck-out tongue and winking eye**967
+52**Smiling face**954
+53**Glowing star**939
+54**Medium star**929
+55**Black heart**921
+56**Turkey**917
+57**Rolling on the floor laughing**894
+58**Basketball**884
+59**Yellow heart**876
+60**Double exclamation mark**856
+61**Flag of United Kingdom**855
+62**American football**855
+63**Sign of the horns**848
+64**Sun with rays**844
+65**White heavy check mark**841
+66**Rocket**792
+67**Clapping hands sign (light skin tone)**782
+68**Face savouring delicious food**776
+69**Sparkling heart**771
+70**Person with folded hands (medium dark skin tone)**763
+71**Smiling face with open mouth and smiling eyes**754
+72**Hot beverage**748
+73**Weary face**728
+74**Smiling face with horns**728
+75**Admission tickets**727
+76**Face with rolling eyes**720
+77**Grimacing face**710
+78**Large red circle**703
+79**Clapping hands sign (medium light skin tone)**700
+80**Television**693
+81**Smirking face**691
+82**Heart suit**690
+83**Victory hand**688
+84**Downwards arrow**686
+85**Rainbow**682
+86**See-no-evil monkey**678
+87**Airplane**676
+88**Speaker with three sound waves**671
+89**Rose**663
+90**Heavy check mark**634
+91**Ghost**630
+92**Headphone**630
+93**Bottle with popping cork**629
+94**Ok hand sign (light skin tone)**619
+95**Wrapped present**619
+96**Person raising both hands in celebration (medium skin tone)**608
+97**Person with folded hands (medium skin tone)**593
+98**Person raising both hands in celebration (medium dark skin tone)**590
+99**Thumbs up sign (medium light skin tone)**587
+100**Person with folded hands (medium light skin tone)**587
+101**Father Christmas**583
+102**Crown**578
+103**Person with folded hands (light skin tone)**573
+104**Speaking head in silhouette**566
+105**Slightly smiling face**562
+106**Smiling face with open mouth and cold sweat**551
+107**Growing heart**546
+108**Books**544
+109**Flag of Canada**543
+110**Kiss mark**540
+111**Rugby football**540
+112**Dizzy symbol**536
+113**Crying face**529
+114**Microphone**528
+115**Wine glass**526
+116**Dog face**519
+117**Beer mug**511
+118**Upside-down face**508
+119**Skull**499
+120**Smiling face with open mouth and tightly-closed eyes**483
+121**Birthday cake**481
+122**Ok hand sign (medium light skin tone)**478
+123**Memo**476
+124**Flexed biceps (medium light skin tone)**474
+125**Dancer**469
+126**Waving hand sign**468
+127**Clinking glasses**465
+128**Fallen leaf**456
+129**Fisted hand sign (light skin tone)**454
+130**Earth globe americas**450
+131**Radio**449
+132**Flexed biceps (light skin tone)**447
+133**Fisted hand sign (medium light skin tone)**440
+134**Water wave**429
+135**Nerd face**401
+136**Maple leaf**398
+137**Balloon**396
+138**Flag of Australia**392
+139**Right-pointing triangle**390
+140**Slice of pizza**385
+141**Newspaper**385
+142**Money bag**382
+143**Large blue circle**382
+144**Broken heart**372
+145**Chequered flag**372
+146**Boxing glove**353
+147**Earth globe europe-africa**351
+148**Palm tree**351
+149**Cocktail glass**349
+150**First place medal**347
+151**Sign of the horns (light skin tone)**340
+152**Film projector**340
+153**Electric light bulb**339
+154**Evergreen tree**339
+155**Clapper board**336
+156**Face with open mouth**335
+157**Guitar**335
+158**Sleeping face**332
+159**Honeybee**330
+160**Sun with face**327
+161**Flag in hole**327
+162**Public address loudspeaker**316
+163**Pensive face**315
+164**Keycap digit one**310
+165**Smiling face with halo**309
+166**Warning sign**307
+167**Red exclamation mark symbol**306
+168**Flag of Ireland**303
+169**Sign of the horns (medium light skin tone)**301
+170**Round pushpin**297
+171**Studio microphone**293
+172**Cheering megaphone**292
+173**Musical note**289
+174**Musical score**289
+175**Raised fist**287
+176**Shamrock**287
+177**Alarm clock**285
+178**Gem stone**281
+179**Splashing sweat symbol**281
+180**Pouting face**279
+181**Flexed biceps (medium skin tone)**279
+182**Hamburger**276
+183**Face with look of triumph**273
+184**Drooling face**272
+185**Artist palette**272
+186**Clapping hands sign (medium skin tone)**271
+187**Face with stuck-out tongue and tightly-closed eyes**270
+188**Fork and knife**268
+189**Lion face**267
+190**Bear face**263
+191**Performing arts**260
+192**Revolving hearts**259
+193**Astonished face**259
+194**Paw prints**259
+195**Flexed biceps (medium dark skin tone)**258
+196**Four leaf clover**251
+197**Cricket bat and ball**246
+198**Baseball**243
+199**Red apple**242
+200**Fisted hand sign (medium skin tone)**242
+201**Raised fist (medium dark skin tone)**241
+202**Automobile**240
+203**Ok hand sign (medium skin tone)**239
+204**Star-struck**239
+205**Personal computer**234
+206**Relieved face**232
+207**Tiger face**232
+208**Cherry blossom**230
+209**Tangerine**228
+210**Call me hand**228
+211**Shortcake**227
+212**Beating heart**226
+213**Volleyball**226
+214**Video camera**224
+215**Victory hand (medium light skin tone)**222
+216**Dancer (light skin tone)**221
+217**Smiling cat face with heart-shaped eyes**218
+218**Fork and knife with plate**218
+219**Tennis ball**216
+220**Hand with index and middle fingers crossed**215
+221**Graduation cap**215
+222**Goat**214
+223**Fisted hand sign (medium dark skin tone)**210
+224**Direct hit**209
+225**Clapping hands sign (medium dark skin tone)**206
+226**Down pointing backhand index (medium light skin tone)**206
+227**Rainbow flag**206
+228**Man dancing**204
+229**Mobile phone**201
+230**Victory hand (light skin tone)**199
+231**Keycap digit two**199
+232**Seedling**198
+233**Unamused face**196
+234**Extraterrestrial alien**196
+235**Neutral face**194
+236**Tired face**193
+237**Herb**193
+238**Field hockey stick and ball**190
+239**Medium black circle**188
+240**Hibiscus**187
+241**Eagle**187
+242**Flag of France**185
+243**Thumbs up sign (medium skin tone)**185
+244**Wolf face**184
+245**Horse**183
+246**Happy person raising one hand**181
+247**Open book**181
+248**Flag of Italy**180
+249**Ice hockey stick and puck**179
+250**Right pointing backhand index (medium light skin tone)**178
+251**Ticket**177
+252**Disappointed face**176
+253**Bomb**176
+254**Umbrella with rain drops**176
+255**Keycap digit three**175
+256**Skull and crossbones**173
+257**Heart with arrow**169
+258**Speak-no-evil monkey**169
+259**Robot face**167
+260**Drum with drumsticks**167
+261**Tumbler glass**166
+262**Crossed swords**164
+263**Top hat**162
+264**Father Christmas (light skin tone)**162
+265**Ok hand sign (medium dark skin tone)**160
+266**Telephone receiver**160
+267**Sign of the horns (medium skin tone)**160
+268**Calendar**159
+269**Dash symbol**158
+270**Cross mark**157
+271**Poultry leg**157
+272**Face with stuck-out tongue**156
+273**Upwards arrow**155
+274**Down pointing backhand index (light skin tone)**155
+275**Flag of South Africa**153
+276**Stopwatch**153
+277**Snake**151
+278**Confetti ball**150
+279**Earth globe asia-australia**148
+280**Bicycle**148
+281**Spiral calendar pad**148
+282**Ring**147
+283**Runner**147
+284**Right pointing backhand index (light skin tone)**146
+285**Sports medal**145
+286**Musical keyboard**144
+287**Writing hand**144
+288**Cherries**144
+289**Women with bunny ears**144
+290**Tropical drink**143
+291**Crystal ball**141
+292**Victory hand (medium skin tone)**141
+293**Flag of China**141
+294**Raised fist (medium skin tone)**140
+295**Flag of Germany**140
+296**Elephant**140
+297**Leaf fluttering in wind**139
+298**Dizzy face**138
+299**Butterfly**137
+300**Clown face**137
+301**Taco**137
+302**Unicorn face**137
+303**Person with folded hands (dark skin tone)**136
+304**Chart with upwards trend**136
+305**Speech balloon**136
+306**Anchor**135
+307**Deciduous tree**135
+308**Lemon**135
+309**Pile of poo**134
+310**Video game**132
+311**Expressionless face**131
+312**Up pointing index**130
+313**Sunrise**129
+314**Down pointing backhand index (medium skin tone)**129
+315**Dancer (medium light skin tone)**129
+316**Lipstick**128
+317**Face with cowboy hat**127
+318**Father Christmas (medium light skin tone)**127
+319**Man shrugging (medium dark skin tone)**124
+320**Flag of Spain**124
+321**Disappointed but relieved face**123
+322**Confused face**123
+323**House with garden**123
+324**Cloud with tornado**122
+325**Frowning face**121
+326**Information desk person**121
+327**Money with wings**121
+328**Athletic shoe**121
+329**Medium white circle**121
+330**Lock**121
+331**Thumbs up sign (medium dark skin tone)**120
+332**Flag of European Union**120
+333**Heavy heart exclamation mark ornament**119
+334**Peach**119
+335**Cat face**119
+336**Snowman**119
+337**Bus**119
+338**Call me hand (medium light skin tone)**118
+339**Nauseated face**118
+340**Cheese wedge**118
+341**Ribbon**118
+342**Keycap digit five**118
+343**Flag of Brazil**117
+344**Top with upwards arrow above**117
+345**Hot pepper**116
+346**Bar chart**116
+347**Waving hand sign (medium light skin tone)**116
+348**Mobile phone with rightwards arrow at left**116
+349**Fireworks**115
+350**Raised fist (medium light skin tone)**115
+351**Cookie**115
+352**Sign of the horns (medium dark skin tone)**115
+353**Chocolate bar**115
+354**Arrow pointing rightwards then curving downwards**115
+355**Bouquet**114
+356**Thought balloon**114
+357**Dancer (medium skin tone)**113
+358**Tongue**113
+359**Golfer**113
+360**Handshake**112
+361**Airplane departure**112
+362**Tear-off calendar**111
+363**Flag of Japan**111
+364**Doughnut**111
+365**Bicyclist**111
+366**Eye**110
+367**Fish**110
+368**Horse racing**110
+369**Soft ice cream**108
+370**Ballot box with check**107
+371**Japanese ogre**107
+372**Sleeping symbol**107
+373**Frog face**106
+374**House building**105
+375**Cooking**105
+376**Cloud**105
+377**Crescent moon**105
+378**Zipper-mouth face**104
+379**Pig face**104
+380**Horse face**103
+381**Saxophone**101
+382**Nail polish**100
+383**Cloud with rain**100
+384**Bat**100
+385**Flag of Mexico**100
+386**Steam locomotive**99
+387**Man facepalming (medium dark skin tone)**97
+388**Sunflower**97
+389**Snowman without snow**97
+390**Flag of Belgium**96
+391**Woman running**96
+392**Right pointing backhand index (medium skin tone)**96
+393**Soon with rightwards arrow above**95
+394**High-heeled shoe**95
+395**Man shrugging (medium skin tone)**94
+396**Crazy face**94
+397**Popcorn**94
+398**Universal recycling symbol**94
+399**Crocodile**94
+400**Raised hand**94
+401**Pencil**94
+402**Telephone**94
+403**Keycap digit four**94
+404**Banana**93
+405**Racing car**93
+406**Man shrugging**93
+407**Rolled-up newspaper**93
+408**Shopping bags**92
+409**Money-mouth face**91
+410**Droplet**91
+411**Persevering face**90
+412**Face with monocle**90
+413**Key**90
+414**Waving hand sign (light skin tone)**90
+415**Victory hand (medium dark skin tone)**90
+416**Ice skate**90
+417**Face with open mouth and cold sweat**89
+418**Large orange diamond**89
+419**Face with medical mask**88
+420**Link symbol**88
+421**Squared new**87
+422**Man dancing (light skin tone)**86
+423**Flag of Wales**86
+424**Call me hand (light skin tone)**85
+425**Spider**85
+426**Fire engine**85
+427**Baby**84
+428**Open hands sign**84
+429**Orange heart**83
+430**Information desk person (medium light skin tone)**83
+431**Alien monster**83
+432**Sleepy face**82
+433**Bird**82
+434**Call me hand (medium skin tone)**81
+435**Shark**81
+436**Lollipop**81
+437**Right-pointing magnifying glass**81
+438**Woman shrugging (medium light skin tone)**80
+439**Rabbit face**80
+440**Down pointing backhand index (medium dark skin tone)**80
+441**Flag of Puerto Rico**79
+442**Violin**79
+443**Ear**79
+444**T-shirt**79
+445**Dog**78
+446**Hushed face**78
+447**Heart with ribbon**78
+448**Flag of India**78
+449**Circus tent**78
+450**Kissing face with closed eyes**77
+451**Sneezing face**77
+452**Syringe**77
+453**Face with cold sweat**76
+454**Raised fist (light skin tone)**76
+455**Satellite antenna**76
+456**Strawberry**75
+457**Man facepalming (medium skin tone)**75
+458**Heavy multiplication x**75
+459**Flag of Zimbabwe**75
+460**Comet**75
+461**Woman shrugging (light skin tone)**74
+462**Deer**74
+463**Helicopter**74
+464**Flag of Sweden**73
+465**Hocho**73
+466**Hourglass with flowing sand**73
+467**Wristwatch**72
+468**Sheep**72
+469**Slightly frowning face**71
+470**Man facepalming**71
+471**Tulip**71
+472**Flag of Nigeria**71
+473**Turtle**71
+474**Dolphin**71
+475**Cat face with tears of joy**70
+476**Fox face**70
+477**Exploding head**70
+478**Angry face**70
+479**Cactus**70
+480**Keycap digit six**70
+481**Person raising both hands in celebration (dark skin tone)**69
+482**Face without mouth**68
+483**Red question mark ornament**68
+484**Right pointing backhand index (medium dark skin tone)**68
+485**No entry sign**68
+486**Black small square**68
+487**Hammer**67
+488**Squared vs**67
+489**Avocado**67
+490**Pineapple**67
+491**Package**66
+492**Shushing face**65
+493**Flag of Netherlands**65
+494**Blossom**65
+495**Raised hand with fingers splayed**65
+496**Chicken**65
+497**Cyclone**65
+498**Thumbs down sign**65
+499**Man shrugging (light skin tone)**64
+500**Raised fist (dark skin tone)**64
+501**Grapes**64
+502**Dragon**64
+503**Flag of Scotland**64
+504**Woman shrugging (medium skin tone)**63
+505**Green apple**63
+506**Man dancing (medium light skin tone)**63
+507**Sailboat**63
+508**Racing motorcycle**63
+509**Man facepalming (light skin tone)**62
+510**Footprints**61
+511**Wilted flower**61
+512**Spaghetti**61
+513**Kissing face with smiling eyes**60
+514**Flag of New Zealand**60
+515**Banknote with dollar sign**60
+516**Optical disc**60
+517**Swimmer**60
+518**Microscope**60
+519**Trumpet**60
+520**Dark sunglasses**60
+521**Information desk person (light skin tone)**59
+522**Ballot box with ballot**59
+523**Snow capped mountain**59
+524**Firework sparkler**59
+525**Bowling**59
+526**Man dancing (medium skin tone)**59
+527**School satchel**58
+528**Dress**58
+529**Flag of Switzerland**58
+530**Weary cat face**58
+531**Battery**58
+532**Fishing pole and fish**58
+533**Skier**58
+534**Happy person raising one hand (light skin tone)**58
+535**Information source**58
+536**Statue of liberty**57
+537**New moon with face**57
+538**Pistol**57
+539**Dove of peace**57
+540**French fries**57
+541**Owl**57
+542**Recreational vehicle**57
+543**Carrot**57
+544**Speaker**57
+545**Scissors**56
+546**Bread**56
+547**Heavy plus sign**56
+548**Cow face**56
+549**Oncoming automobile**56
+550**Second place medal**56
+551**Banknote with pound sign**56
+552**Fearful face**56
+553**Milky way**55
+554**Hand with index and middle fingers crossed (medium light skin tone)**55
+555**Smiling cat face with open mouth**55
+556**On with exclamation mark with left right arrow above**55
+557**Penguin**55
+558**Two women holding hands**55
+559**Runner (light skin tone)**55
+560**Male cook**54
+561**Beach with umbrella**54
+562**Dancer (medium dark skin tone)**54
+563**Shopping trolley**54
+564**Tropical fish**53
+565**Call me hand (medium dark skin tone)**53
+566**Desktop computer**53
+567**Waving hand sign (medium skin tone)**53
+568**Ear of maize**53
+569**Left pointing backhand index**53
+570**Dragon face**52
+571**Shooting star**52
+572**Candy**52
+573**Steaming bowl**52
+574**Fleur-de-lis**52
+575**Pushpin**51
+576**Small blue diamond**51
+577**Pie**51
+578**Mushroom**51
+579**Face with raised eyebrow**50
+580**Front-facing baby chick**50
+581**Woman biking**50
+582**Imp**49
+583**Woman facepalming (medium light skin tone)**49
+584**Confounded face**48
+585**Snowboarder**48
+586**Night with stars**48
+587**Nib**48
+588**Fisted hand sign (dark skin tone)**48
+589**Flag of Kenya**48
+590**Dvd**48
+591**Globe with meridians**48
+592**Flag of Denmark**47
+593**Woman shrugging**47
+594**Selfie**47
+595**Heavy large circle**47
+596**Back with leftwards arrow above**47
+597**Table tennis paddle and ball**47
+598**Mouth**46
+599**Panda face**46
+600**Duck**46
+601**Police officer**46
+602**Gorilla**46
+603**Keycap digit seven**46
+604**Peace symbol**46
+605**E-mail symbol**46
+606**Scales**45
+607**Pill**45
+608**Monkey**45
+609**Leftwards arrow**45
+610**Bell**45
+611**Face with head-bandage**45
+612**Woman facepalming (light skin tone)**44
+613**Baby (light skin tone)**44
+614**Anguished face**44
+615**Man and woman holding hands**44
+616**Aubergine**44
+617**Hot dog**44
+618**Briefcase**44
+619**Third place medal**44
+620**Flag of South Korea**44
+621**Electric plug**44
+622**Man shrugging (medium light skin tone)**43
+623**Happy person raising one hand (medium light skin tone)**43
+624**Sleuth or spy**43
+625**Happy person raising one hand (medium skin tone)**43
+626**Squared up with exclamation mark**43
+627**Hatching chick**43
+628**Up pointing index (medium light skin tone)**43
+629**Oncoming police car**43
+630**Hand with index and middle fingers crossed (medium dark skin tone)**43
+631**Flexed biceps (dark skin tone)**42
+632**Love-you gesture**42
+633**Watermelon**42
+634**Eyeglasses**42
+635**Small orange diamond**42
+636**Jeans**42
+637**Wind blowing face**41
+638**Face with hand over mouth**41
+639**Up pointing backhand index**41
+640**Baby (medium light skin tone)**41
+641**Woman swimming**41
+642**Billiards**41
+643**Flag of Finland**41
+644**Woman facepalming (medium skin tone)**40
+645**Rooster**40
+646**Clapping hands sign (dark skin tone)**40
+647**Tiger**40
+648**Man raising hand**40
+649**Part alternation mark**40
+650**Right-pointing double triangle**40
+651**Worried face**39
+652**Runner (medium skin tone)**39
+653**Pancakes**39
+654**Keycap digit eight**39
+655**Stadium**39
+656**Bow and arrow**39
+657**Right-facing fist**38
+658**Spouting whale**38
+659**Female student**38
+660**Cityscape**38
+661**Flag of Norway**38
+662**Bug**38
+663**Fried shrimp**38
+664**Clockwise rightwards and leftwards open circle arrows**38
+665**Film frames**38
+666**Snail**38
+667**Mountain**38
+668**Father Christmas (medium skin tone)**38
+669**Face with symbols over mouth**37
+670**Kissing face**37
+671**Flag of Argentina**37
+672**Teacup without handle**37
+673**Delivery truck**37
+674**Page facing up**37
+675**Tomato**37
+676**Diamond suit**37
+677**Bride with veil**37
+678**Right pointing backhand index (dark skin tone)**37
+679**Flag of England**37
+680**Face with thermometer**37
+681**Keycap ten**37
+682**Flag of Macau**37
+683**Left-pointing magnifying glass**37
+684**Raised hand with part between middle and ring fingers**36
+685**Love letter**36
+686**Shallow pan of food**36
+687**Vertical traffic light**36
+688**Ambulance**36
+689**Spider web**36
+690**Candle**36
+691**Mouse face**36
+692**Spiral note pad**36
+693**Ear of rice**36
+694**Baby angel**36
+695**Tractor**36
+696**Fuel pump**36
+697**Sun with small cloud**36
+698**Flag of Ghana**36
+699**Cow**36
+700**Bacon**36
+701**Princess**35
+702**Hospital**35
+703**Hand with index and middle fingers crossed (medium skin tone)**35
+704**Hear-no-evil monkey**35
+705**Female technologist**35
+706**Information desk person (medium skin tone)**35
+707**Necktie**35
+708**Spade suit**35
+709**Clipboard**35
+710**Cat face with wry smile**35
+711**Hammer and pick**35
+712**European castle**34
+713**Up pointing index (medium dark skin tone)**34
+714**Keycap digit nine**34
+715**Ship**34
+716**Flag of Portugal**34
+717**Large blue diamond**34
+718**Volcano**34
+719**Female sign**34
+720**Hammer and wrench**34
+721**Desert island**34
+722**Peanuts**34
+723**Squared free**34
+724**Octopus**33
+725**Crab**33
+726**Badminton racquet and shuttlecock**33
+727**Up-pointing red triangle**33
+728**Black large square**33
+729**Exclamation question mark**33
+730**Man running**33
+731**Woman shrugging (medium dark skin tone)**32
+732**Triangular flag on post**32
+733**Honey pot**32
+734**Game die**32
+735**Umbrella**32
+736**Waving black flag**32
+737**Church**32
+738**Flag of Hong Kong**32
+739**Hand with index and middle fingers crossed (light skin tone)**32
+740**Full moon with face**31
+741**Flag of Poland**31
+742**Lizard**31
+743**Control knobs**31
+744**Reversed hand with middle finger extended**30
+745**Nail polish (light skin tone)**30
+746**Brain**30
+747**Croissant**30
+748**Nail polish (medium light skin tone)**30
+749**Chains**30
+750**Runner (medium light skin tone)**30
+751**Heart decoration**29
+752**Lower left paintbrush**29
+753**Whale**29
+754**Dagger knife**29
+755**Two men holding hands**29
+756**Envelope with downwards arrow above**29
+757**Joystick**29
+758**Flag of Jamaica**29
+759**Nail polish (medium skin tone)**29
+760**Down pointing backhand index (dark skin tone)**29
+761**Speaker with one sound wave**29
+762**White exclamation mark ornament**28
+763**Lower left ballpoint pen**28
+764**Grinning cat face with smiling eyes**28
+765**Construction sign**28
+766**Martial arts uniform**28
+767**Old key**28
+768**Sushi**28
+769**Goal net**28
+770**Rhinoceros**28
+771**Ice cream**28
+772**Toilet**28
+773**Ant**28
+774**Hourglass**28
+775**Flag of Bahrain**28
+776**Negative squared latin capital letter b**27
+777**Cat**27
+778**No entry**27
+779**Spiral shell**27
+780**Closed lock with key**27
+781**Flag of Lebanon**27
+782**Flag of Israel**27
+783**Full moon symbol**27
+784**Up pointing index (medium skin tone)**27
+785**Ram**27
+786**First quarter moon with face**27
+787**Bellhop bell**27
+788**Ski and ski boot**27
+789**Thunder cloud and rain**27
+790**Japanese symbol for beginner**27
+791**Victory hand (dark skin tone)**26
+792**Flag of Austria**26
+793**Pot of food**26
+794**Octagonal sign**26
+795**Roller coaster**26
+796**Flag of United Arab Emirates**26
+797**Flag of Russia**26
+798**Frame with picture**26
+799**Small airplane**26
+800**Bicyclist (medium light skin tone)**26
+801**Envelope**26
+802**Cloud with snow**26
+803**World map**26
+804**Military medal**26
+805**Woman facepalming**25
+806**Thumbs down sign (light skin tone)**25
+807**Kissing cat face with closed eyes**25
+808**Female cook**25
+809**Woman running (medium light skin tone)**25
+810**Crying cat face**25
+811**Coffin**25
+812**Weight lifter**25
+813**Minibus**25
+814**Koala**25
+815**Telescope**25
+816**Satellite**25
+817**Closed book**25
+818**Man facepalming (medium light skin tone)**25
+819**Boar**25
+820**Electric torch**24
+821**Monkey face**24
+822**Bikini**24
+823**Male student**24
+824**Potato**24
+825**Meat on bone**24
+826**Face with no good gesture**24
+827**Level slider**24
+828**Man**24
+829**Lower left fountain pen**24
+830**Man (light skin tone)**24
+831**Flag of Czech Republic**24
+832**Open mailbox with raised flag**24
+833**Shrug**23
+834**Reminder ribbon**23
+835**Put litter in its place symbol**23
+836**Cloud with lightning**23
+837**New moon symbol**23
+838**Police officer (light skin tone)**23
+839**Woman running (light skin tone)**23
+840**Man dancing (medium dark skin tone)**23
+841**Female scientist**23
+842**Timer clock**23
+843**Heavy minus sign**23
+844**Up pointing backhand index (medium light skin tone)**23
+845**Wheelchair symbol**23
+846**Keycap number sign**23
+847**Egg**23
+848**Videocassette**23
+849**Wavy dash**23
+850**Hot springs**23
+851**Tent**23
+852**No one under eighteen symbol**23
+853**Baby bottle**23
+854**Surfer**23
+855**T-Rex**23
+856**Dromedary camel**22
+857**Reversed hand with middle finger extended (medium light skin tone)**22
+858**Ox**22
+859**Sunset over buildings**22
+860**Woman**22
+861**Princess (light skin tone)**22
+862**Handbag**22
+863**Flag of Tonga**22
+864**Flag of Greece**22
+865**Green salad**22
+866**Ok hand sign (dark skin tone)**22
+867**Down-pointing red triangle**22
+868**Door**22
+869**Blue book**22
+870**Curling stone**22
+871**Bathtub**21
+872**Sun behind cloud**21
+873**Mother Christmas**21
+874**Bicyclist (light skin tone)**21
+875**Frowning face with open mouth**21
+876**Mantelpiece clock**21
+877**Chipmunk**21
+878**Flag of Philippines**20
+879**Pear**20
+880**Flag of Iceland**20
+881**Pedestrian**20
+882**Gear**20
+883**Princess (medium light skin tone)**20
+884**Mans shoe**20
+885**Rabbit**20
+886**Minidisc**20
+887**Motorway**20
+888**Busts in silhouette**20
+889**Baguette bread**20
+890**Anticlockwise downwards and upwards open circle arrows**20
+891**Flag of Fiji**20
+892**Flag of Thailand**19
+893**Woman raising hand**19
+894**Cityscape at dusk**19
+895**Golfer (medium light skin tone)**19
+896**Flag of Turkey**19
+897**Golfer (light skin tone)**19
+898**Woman raising hand (light skin tone)**19
+899**Up pointing index (dark skin tone)**19
+900**Oncoming bus**19
+901**Nail polish (medium dark skin tone)**19
+902**Raised hand with fingers splayed (medium skin tone)**19
+903**Heavy dollar sign**18
+904**Love-you gesture (medium light skin tone)**18
+905**Flag of Chile**18
+906**Scorpion**18
+907**Office building**18
+908**Notebook**18
+909**Police car**18
+910**Lower left crayon**18
+911**Cucumber**18
+912**Thumbs up sign (dark skin tone)**18
+913**Face massage**18
+914**Face palm**18
+915**Thermometer**18
+916**White small square**18
+917**Waving hand sign (medium dark skin tone)**17
+918**Glass of milk**17
+919**Canoe**17
+920**Flag of Singapore**17
+921**Burrito**17
+922**Sunrise over mountains**17
+923**Runner (medium dark skin tone)**17
+924**Man raising hand (medium light skin tone)**17
+925**Hedgehog**17
+926**Shower**17
+927**Squared sos**17
+928**Wrench**17
+929**Family (man, woman, girl, boy)**17
+930**Leopard**17
+931**Rowboat**17
+932**Shield**17
+933**Man shrugging (dark skin tone)**17
+934**Lady beetle**17
+935**Bactrian camel**17
+936**Right-facing fist (medium dark skin tone)**17
+937**Shrimp**17
+938**Up pointing backhand index (light skin tone)**17
+939**Male technologist**17
+940**Clock face three oclock**17
+941**Speedboat**17
+942**Radio button**17
+943**Barber pole**17
+944**Poodle**16
+945**Incoming envelope**16
+946**Flag of Trinidad & Tobago**16
+947**Right anger bubble**16
+948**Coconut**16
+949**Face with ok gesture (medium light skin tone)**16
+950**Left speech bubble**16
+951**Flag of Haiti**16
+952**Shaved ice**16
+953**Squid**16
+954**Open lock**16
+955**Flag of Croatia**16
+956**Bath**16
+957**Sign of the horns (dark skin tone)**16
+958**Flag of Uganda**16
+959**Mount fuji**16
+960**Princess (medium skin tone)**16
+961**Woman swimming (light skin tone)**16
+962**Pig**16
+963**Up pointing index (light skin tone)**16
+964**School**16
+965**Princess (medium dark skin tone)**16
+966**Man gesturing not ok**16
+967**Diamond shape with a dot inside**16
+968**Scroll**16
+969**Couple with heart**16
+970**Face with no good gesture (light skin tone)**15
+971**Face vomiting**15
+972**Flag of Peru**15
+973**Seat**15
+974**Pick**15
+975**Slot machine**15
+976**Older man (light skin tone)**15
+977**Articulated lorry**15
+978**Ear (light skin tone)**15
+979**House buildings**15
+980**Flag of Georgia**15
+981**Airplane arriving**15
+982**Men wrestling**15
+983**Playing card joker**15
+984**Purse**15
+985**Wedding**15
+986**Passenger ship**15
+987**Man raising hand (light skin tone)**15
+988**Womens symbol**15
+989**Curry and rice**15
+990**Classical building**14
+991**Reversed hand with middle finger extended (medium skin tone)**14
+992**Flag of Bulgaria**14
+993**Woman running (medium skin tone)**14
+994**Surfer (light skin tone)**14
+995**Green book**14
+996**Flag of Congo - Kinshasa**14
+997**High brightness symbol**14
+998**Family**14
+999**Ledger**14
+1000**Right-facing fist (light skin tone)**14
+1001**Woman golfing**14
+1002**Flag of Côte d’Ivoire**14
+1003**Female sleuth**14
+1004**Black medium small square**14
+1005**Haircut**14
+1006**Oncoming taxi**14
+1007**Flag of U.S. Outlying Islands**14
+1008**Tokyo tower**14
+1009**Face with ok gesture**14
+1010**Dancer (dark skin tone)**14
+1011**Man gesturing not ok (medium dark skin tone)**14
+1012**Womans boots**14
+1013**Japanese goblin**14
+1014**Motor scooter**14
+1015**Happy person raising one hand (medium dark skin tone)**14
+1016**Flag of Estonia**14
+1017**Flag of Cuba**14
+1018**Female singer**14
+1019**Writing hand (light skin tone)**14
+1020**Lying face**14
+1021**Woman facepalming (medium dark skin tone)**13
+1022**Construction worker**13
+1023**Flag of Hungary**13
+1024**Flag of Serbia**13
+1025**Face massage (medium light skin tone)**13
+1026**Swimmer (medium light skin tone)**13
+1027**Raised back of hand**13
+1028**Ferris wheel**13
+1029**Last quarter moon with face**13
+1030**Derelict house building**13
+1031**Female technologist (light skin tone)**13
+1032**Raised hand (medium light skin tone)**13
+1033**Female artist**13
+1034**Flag of Oman**13
+1035**Call me hand (dark skin tone)**13
+1036**Sun behind large cloud**13
+1037**Train**13
+1038**Page with curl**13
+1039**Sleeping accommodation**13
+1040**Om symbol**13
+1041**Left pointing backhand index (medium light skin tone)**13
+1042**Trident emblem**13
+1043**Up-pointing triangle**13
+1044**Thumbs down sign (medium light skin tone)**13
+1045**Waxing crescent moon symbol**13
+1046**Flag of Rwanda**13
+1047**Cut of meat**13
+1048**Male health worker**13
+1049**Ferry**13
+1050**Right-facing fist (medium light skin tone)**13
+1051**Clock face twelve oclock**13
+1052**Fencer**13
+1053**Rat**13
+1054**Paperclip**13
+1055**Open hands sign (medium light skin tone)**13
+1056**Thumbs down sign (medium skin tone)**13
+1057**Woman tipping hand (medium light skin tone)**12
+1058**Female police officer**12
+1059**Woman rowing boat**12
+1060**Latin cross**12
+1061**Women wrestling**12
+1062**Womans clothes**12
+1063**Sandwich**12
+1064**Woman weight lifting**12
+1065**Raised hand with part between middle and ring fingers (medium light skin tone)**12
+1066**Flag of Vietnam**12
+1067**Moyai**12
+1068**Clock face two oclock**12
+1069**Writing hand (medium dark skin tone)**12
+1070**Baby chick**12
+1071**Broccoli**12
+1072**Mountain bicyclist**12
+1073**Left pointing backhand index (light skin tone)**12
+1074**Fog**12
+1075**National park**12
+1076**Man biking**12
+1077**Love-you gesture (light skin tone)**12
+1078**Bicyclist (medium skin tone)**12
+1079**Swimmer (light skin tone)**12
+1080**Eight spoked asterisk**12
+1081**Motor boat**12
+1082**Eight pointed star**12
+1083**Person doing cartwheel**12
+1084**Flag of Kosovo**12
+1085**Reversed hand with middle finger extended (medium dark skin tone)**11
+1086**Bride with veil (medium light skin tone)**11
+1087**Baby (medium dark skin tone)**11
+1088**Raised hand with fingers splayed (light skin tone)**11
+1089**Chestnut**11
+1090**Kiwifruit**11
+1091**Bearded person**11
+1092**Mother Christmas (light skin tone)**11
+1093**Taxi**11
+1094**Man golfing**11
+1095**Flag of Slovenia**11
+1096**Girl**11
+1097**Pregnant woman**11
+1098**Men with bunny ears**11
+1099**Writing hand (medium skin tone)**11
+1100**Input symbol for numbers**11
+1101**Man getting haircut**11
+1102**Haircut (medium light skin tone)**11
+1103**Cup with straw**11
+1104**Stuffed flatbread**11
+1105**Black medium square**11
+1106**Flag of Tanzania**11
+1107**Building construction**11
+1108**Woman tipping hand**11
+1109**North east arrow**11
+1110**Club suit**11
+1111**Bride with veil (light skin tone)**11
+1112**Raised hand with part between middle and ring fingers (medium skin tone)**11
+1113**Ear (medium skin tone)**10
+1114**Writing hand (medium light skin tone)**10
+1115**Cinema**10
+1116**Man tipping hand (light skin tone)**10
+1117**Information desk person (medium dark skin tone)**10
+1118**Love-you gesture (medium dark skin tone)**10
+1119**Woman running (medium dark skin tone)**10
+1120**Flag of Latvia**10
+1121**Clockwise downwards and upwards open circle arrows**10
+1122**Flag of Iran**10
+1123**Woman tipping hand (light skin tone)**10
+1124**Smoking symbol**10
+1125**Billed cap**10
+1126**Man facepalming (dark skin tone)**10
+1127**Black square button**10
+1128**Face with no good gesture (medium light skin tone)**10
+1129**Baby (medium skin tone)**10
+1130**Male cook (light skin tone)**10
+1131**Flag of Bahamas**10
+1132**Credit card**10
+1133**Flag of Colombia**10
+1134**Woman walking**10
+1135**Couch and lamp**10
+1136**Horse racing (medium skin tone)**10
+1137**Open hands sign (medium skin tone)**10
+1138**Older man (medium light skin tone)**10
+1139**Eye in speech bubble**10
+1140**Person bowing deeply**10
+1141**Flag of Afghanistan**10
+1142**Flag of Dominican Republic**10
+1143**Bridge at night**10
+1144**Police officer (medium light skin tone)**10
+1145**Flag of Jersey**10
+1146**Face with ok gesture (light skin tone)**9
+1147**Horizontal traffic light**9
+1148**White large square**9
+1149**Woman bowing deeply (light skin tone)**9
+1150**Thumbs down sign (medium dark skin tone)**9
+1151**Waning crescent moon symbol**9
+1152**Antenna with bars**9
+1153**Triangular ruler**9
+1154**Clock face nine oclock**9
+1155**Man gesturing ok**9
+1156**Raised hand with part between middle and ring fingers (medium dark skin tone)**9
+1157**Flag of Sierra Leone**9
+1158**Womans hat**9
+1159**Female sleuth (light skin tone)**9
+1160**Flag of Pakistan**9
+1161**Up pointing backhand index (medium skin tone)**9
+1162**Blowfish**9
+1163**Flag of Malaysia**9
+1164**Flag of Kazakhstan**9
+1165**Horse racing (light skin tone)**9
+1166**Oden**9
+1167**Person bowing deeply (medium skin tone)**9
+1168**Flag of Qatar**9
+1169**Man raising hand (medium dark skin tone)**9
+1170**Sparkle**9
+1171**Mahjong tile red dragon**9
+1172**Right-pointing double triangle with vertical bar**9
+1173**Woman golfing (medium light skin tone)**9
+1174**High-speed train with bullet nose**9
+1175**Flag of Romania**9
+1176**Face with no good gesture (medium skin tone)**9
+1177**Sauropod**9
+1178**Clock face eight oclock**9
+1179**Squared cool**9
+1180**Umbrella on ground**9
+1181**Bed**9
+1182**Male singer**9
+1183**Left pointing backhand index (medium skin tone)**9
+1184**Man surfing**9
+1185**Man dancing (dark skin tone)**9
+1186**Man in business suit levitating**9
+1187**Clock face seven oclock**9
+1188**Older woman (light skin tone)**9
+1189**Nose**8
+1190**Wastebasket**8
+1191**Pregnant woman (medium light skin tone)**8
+1192**Mouse**8
+1193**Baby angel (medium light skin tone)**8
+1194**Male scientist**8
+1195**Postal horn**8
+1196**Pedestrian (light skin tone)**8
+1197**Coat**8
+1198**Woman surfing**8
+1199**Left-facing fist**8
+1200**Love hotel**8
+1201**Sun behind cloud with rain**8
+1202**Blonde woman (light skin tone)**8
+1203**Pretzel**8
+1204**Chart with downwards trend**8
+1205**Man weight lifting**8
+1206**Female health worker**8
+1207**Boy**8
+1208**Raised back of hand (medium light skin tone)**8
+1209**Keycap digit zero**8
+1210**Clock face one oclock**8
+1211**Flag of Macedonia**8
+1212**Dango**8
+1213**Golfer (medium skin tone)**8
+1214**Roasted sweet potato**8
+1215**Cooked rice**8
+1216**Mermaid**8
+1217**Hole**8
+1218**Boy (medium light skin tone)**8
+1219**Socks**8
+1220**Open hands sign (light skin tone)**8
+1221**Circled latin capital letter m**8
+1222**Camping**8
+1223**Woman (medium light skin tone)**8
+1224**Reversed hand with middle finger extended (light skin tone)**8
+1225**Older woman**8
+1226**Woman doing cartwheel (medium skin tone)**8
+1227**Negative squared cross mark**8
+1228**Down-pointing triangle**8
+1229**Flag of Ukraine**8
+1230**Left-pointing double triangle**8
+1231**Squared ok**8
+1232**Curly loop**8
+1233**Raised hand with part between middle and ring fingers (light skin tone)**8
+1234**Man tipping hand**8
+1235**Raised hand (light skin tone)**7
+1236**Alembic**7
+1237**Baby angel (medium skin tone)**7
+1238**Biohazard sign**7
+1239**Metro**7
+1240**Woman raising hand (medium light skin tone)**7
+1241**Kimono**7
+1242**Pig nose**7
+1243**Three button mouse**7
+1244**Male teacher**7
+1245**Woman biking (medium light skin tone)**7
+1246**Baby angel (light skin tone)**7
+1247**Right-facing fist (medium skin tone)**7
+1248**Flag of Belarus**7
+1249**Prince**7
+1250**Older man**7
+1251**Tram**7
+1252**Female technologist (medium skin tone)**7
+1253**Bowl with spoon**7
+1254**Love-you gesture (medium skin tone)**7
+1255**Man in tuxedo**7
+1256**Woman doing cartwheel (light skin tone)**7
+1257**Woman swimming (medium light skin tone)**7
+1258**Light rail**7
+1259**Flag of Egypt**7
+1260**Hamster face**7
+1261**Banknote with euro sign**7
+1262**Raised hand (medium skin tone)**7
+1263**Man swimming**7
+1264**Open file folder**7
+1265**Left pointing backhand index (medium dark skin tone)**7
+1266**Rightwards arrow with hook**7
+1267**Woman doing cartwheel (medium dark skin tone)**7
+1268**Female farmer**7
+1269**Man mage**7
+1270**Dumpling**7
+1271**Man running (light skin tone)**7
+1272**Face massage (medium skin tone)**7
+1273**Atom symbol**7
+1274**Woman biking (light skin tone)**7
+1275**White question mark ornament**7
+1276**Flag of Jordan**7
+1277**Horse racing (medium light skin tone)**7
+1278**Female technologist (medium dark skin tone)**7
+1279**Canned food**7
+1280**Man gesturing not ok (medium skin tone)**7
+1281**Open hands sign (medium dark skin tone)**7
+1282**Floppy disk**7
+1283**Flag of Lithuania**7
+1284**Female police officer (light skin tone)**7
+1285**Raised back of hand (medium dark skin tone)**7
+1286**Flag of Liberia**7
+1287**Flag of Azerbaijan**7
+1288**Waving white flag**7
+1289**Woman tipping hand (medium skin tone)**6
+1290**Woman bowing deeply (medium skin tone)**6
+1291**Boy (medium skin tone)**6
+1292**Woman with ball**6
+1293**Father Christmas (medium dark skin tone)**6
+1294**Leftwards arrow with hook**6
+1295**Radioactive sign**6
+1296**Spoon**6
+1297**Closed umbrella**6
+1298**Ear (medium dark skin tone)**6
+1299**Flag of Samoa**6
+1300**Male astronaut**6
+1301**Label**6
+1302**Flag of Indonesia**6
+1303**Hotel**6
+1304**Male farmer**6
+1305**Printer**6
+1306**Inbox tray**6
+1307**Father Christmas (dark skin tone)**6
+1308**Prince (medium dark skin tone)**6
+1309**Orange book**6
+1310**Anger symbol**6
+1311**Flag of Slovakia**6
+1312**Flag of Cambodia**6
+1313**Woman raising hand (medium skin tone)**6
+1314**Female teacher**6
+1315**Railway track**6
+1316**Low brightness symbol**6
+1317**Person bowing deeply (medium light skin tone)**6
+1318**Postbox**6
+1319**Male police officer**6
+1320**Female cook (light skin tone)**6
+1321**Carousel horse**6
+1322**Scorpius**6
+1323**Sake bottle and cup**6
+1324**Flag of Bangladesh**6
+1325**First quarter moon symbol**6
+1326**Yin yang**6
+1327**Clock face four oclock**6
+1328**Woman doing cartwheel**6
+1329**Man doing cartwheel (medium skin tone)**6
+1330**Boy (light skin tone)**6
+1331**Ear (medium light skin tone)**6
+1332**Family (man, woman, boy, boy)**6
+1333**Raised hand (medium dark skin tone)**6
+1334**Flag of Namibia**6
+1335**Flag of Barbados**6
+1336**Man gesturing ok (medium dark skin tone)**6
+1337**Flag of Isle of Man**6
+1338**Izakaya lantern**6
+1339**Man doing cartwheel**6
+1340**Carp streamer**6
+1341**Negative squared latin capital letter a**6
+1342**Male artist**6
+1343**Male sleuth**6
+1344**Selfie (light skin tone)**6
+1345**Flag of Zambia**6
+1346**Woman vampire**6
+1347**Woman mage**6
+1348**Raised hand with fingers splayed (medium dark skin tone)**5
+1349**Man doing cartwheel (medium light skin tone)**5
+1350**Man vampire**5
+1351**Raised hand with part between middle and ring fingers (dark skin tone)**5
+1352**Face with ok gesture (medium skin tone)**5
+1353**South west arrow**5
+1354**Older woman (medium light skin tone)**5
+1355**Waving hand sign (dark skin tone)**5
+1356**Woman gesturing ok**5
+1357**Haircut (light skin tone)**5
+1358**Trolleybus**5
+1359**Rowboat (light skin tone)**5
+1360**Female technologist (medium light skin tone)**5
+1361**Man getting face massage (medium dark skin tone)**5
+1362**Flag of Somalia**5
+1363**Woman weight lifting (medium light skin tone)**5
+1364**Selfie (medium skin tone)**5
+1365**Automated teller machine**5
+1366**Man getting face massage (light skin tone)**5
+1367**Bank**5
+1368**Water buffalo**5
+1369**Flag of Antarctica**5
+1370**Female student (light skin tone)**5
+1371**Tanabata tree**5
+1372**Woman climbing**5
+1373**Girl (medium light skin tone)**5
+1374**Family (man, woman, girl)**5
+1375**Prayer beads**5
+1376**No smoking symbol**5
+1377**Mermaid (medium light skin tone)**5
+1378**Double curly loop**5
+1379**Surfer (medium skin tone)**5
+1380**Last quarter moon symbol**5
+1381**Woman in lotus position**5
+1382**Man in tuxedo (light skin tone)**5
+1383**Man raising hand (medium skin tone)**5
+1384**Scarf**5
+1385**Guardsman**5
+1386**Station**5
+1387**Baby angel (medium dark skin tone)**5
+1388**Wrestlers**5
+1389**Male cook (medium skin tone)**5
+1390**Raised hand with fingers splayed (medium light skin tone)**5
+1391**Surfer (medium light skin tone)**5
+1392**Woman fairy**5
+1393**Flying saucer**5
+1394**Woman biking (medium skin tone)**5
+1395**Woman tipping hand (medium dark skin tone)**5
+1396**Male firefighter**5
+1397**Golfer (medium dark skin tone)**5
+1398**Man running (medium light skin tone)**5
+1399**Woman walking (medium skin tone)**5
+1400**Womans sandal**5
+1401**Flag of Monaco**5
+1402**Male student (light skin tone)**5
+1403**Man genie**5
+1404**Surfer (medium dark skin tone)**5
+1405**Tram car**5
+1406**Flag of Nicaragua**5
+1407**Face massage (light skin tone)**5
+1408**Zebra**5
+1409**Swimmer (medium skin tone)**5
+1410**Man zombie**4
+1411**Female astronaut**4
+1412**Man biking (medium light skin tone)**4
+1413**Woman mountain biking**4
+1414**No mobile phones**4
+1415**Circled ideograph advantage**4
+1416**Woman doing cartwheel (medium light skin tone)**4
+1417**Happy person raising one hand (dark skin tone)**4
+1418**Bookmark**4
+1419**Couple with heart (man, man)**4
+1420**Female student (medium skin tone)**4
+1421**Weight lifter (medium light skin tone)**4
+1422**Clock face five oclock**4
+1423**Man doing cartwheel (medium dark skin tone)**4
+1424**Face with ok gesture (medium dark skin tone)**4
+1425**Waning gibbous moon symbol**4
+1426**Nut and bolt**4
+1427**Left right arrow**4
+1428**Palms up together**4
+1429**Circle for record**4
+1430**Male technologist (medium skin tone)**4
+1431**Prince (light skin tone)**4
+1432**Right-pointing triangle with double vertical bar**4
+1433**Writing hand (dark skin tone)**4
+1434**Man gesturing not ok (medium light skin tone)**4
+1435**Woman (light skin tone)**4
+1436**Face with no good gesture (medium dark skin tone)**4
+1437**Left-facing fist (medium light skin tone)**4
+1438**Woman zombie**4
+1439**Melon**4
+1440**White medium square**4
+1441**Left-pointing double triangle with vertical bar**4
+1442**Flag of Luxembourg**4
+1443**High-speed train**4
+1444**Flag of Syria**4
+1445**Kiss**4
+1446**Pouting cat face**4
+1447**Male astronaut (medium light skin tone)**4
+1448**Convenience store**4
+1449**Keyboard**4
+1450**Flag of Armenia**4
+1451**Raised back of hand (medium skin tone)**4
+1452**Person bowing deeply (medium dark skin tone)**4
+1453**Restroom**4
+1454**Heavy division sign**4
+1455**Mosque**4
+1456**Woman playing water polo**4
+1457**Female cook (medium skin tone)**4
+1458**Family (man, girl, boy)**4
+1459**Female sleuth (medium light skin tone)**4
+1460**Up pointing backhand index (medium dark skin tone)**4
+1461**Man tipping hand (dark skin tone)**4
+1462**Female health worker (medium light skin tone)**4
+1463**Male teacher (medium skin tone)**4
+1464**Pager**4
+1465**Potable water symbol**4
+1466**Negative squared ab**4
+1467**Railway car**4
+1468**Man (medium dark skin tone)**4
+1469**Foggy**4
+1470**Man tipping hand (medium light skin tone)**4
+1471**Adult**4
+1472**Squared cjk unified ideograph-7981**4
+1473**White square button**4
+1474**Male sign**4
+1475**Sled**4
+1476**Raised back of hand (light skin tone)**4
+1477**Japanese dolls**4
+1478**Bookmark tabs**4
+1479**Bust in silhouette**4
+1480**Hand with index and middle fingers crossed (dark skin tone)**4
+1481**Rowboat (medium light skin tone)**4
+1482**Male scientist (medium skin tone)**4
+1483**Water polo**4
+1484**Mage**4
+1485**Female scientist (light skin tone)**4
+1486**Male technologist (light skin tone)**4
+1487**Female student (medium dark skin tone)**4
+1488**Female mechanic**4
+1489**Male astronaut (light skin tone)**4
+1490**Flag of Morocco**4
+1491**Male artist (light skin tone)**4
+1492**Left-facing fist (light skin tone)**4
+1493**Flag of Venezuela**4
+1494**Man juggling**4
+1495**Bento box**3
+1496**Prince (medium light skin tone)**3
+1497**Notebook with decorative cover**3
+1498**Female sleuth (medium skin tone)**3
+1499**Female scientist (medium skin tone)**3
+1500**Flag of El Salvador**3
+1501**Selfie (medium light skin tone)**3
+1502**Woman juggling**3
+1503**Japanese castle**3
+1504**Man walking (light skin tone)**3
+1505**Male artist (medium dark skin tone)**3
+1506**Weight lifter (medium dark skin tone)**3
+1507**Man in business suit levitating (light skin tone)**3
+1508**Man (medium light skin tone)**3
+1509**Nail polish (dark skin tone)**3
+1510**Kiss (woman, woman)**3
+1511**Couple with heart (woman, woman)**3
+1512**Female judge**3
+1513**Male office worker**3
+1514**Girl (medium dark skin tone)**3
+1515**Prince (dark skin tone)**3
+1516**Flag of Sri Lanka**3
+1517**File folder**3
+1518**Bath (medium light skin tone)**3
+1519**Flag of St. Lucia**3
+1520**Ear (dark skin tone)**3
+1521**Man getting face massage (medium skin tone)**3
+1522**Man gesturing not ok (light skin tone)**3
+1523**Boy (medium dark skin tone)**3
+1524**Pedestrian (medium skin tone)**3
+1525**Male student (medium skin tone)**3
+1526**Woman gesturing not ok (medium skin tone)**3
+1527**Man getting haircut (medium light skin tone)**3
+1528**Man tipping hand (medium skin tone)**3
+1529**Golfer (dark skin tone)**3
+1530**Flag of Ecuador**3
+1531**Giraffe**3
+1532**Flag of Uruguay**3
+1533**Man gesturing ok (medium light skin tone)**3
+1534**Woman gesturing not ok**3
+1535**Man doing cartwheel (dark skin tone)**3
+1536**Clock face ten oclock**3
+1537**Woman playing handball**3
+1538**Male police officer (light skin tone)**3
+1539**Male cook (dark skin tone)**3
+1540**Sleuth or spy (medium skin tone)**3
+1541**Fountain**3
+1542**Female police officer (medium light skin tone)**3
+1543**Man mage (medium dark skin tone)**3
+1544**Clock face five-thirty**3
+1545**Man in steamy room (light skin tone)**3
+1546**Left-facing fist (medium dark skin tone)**3
+1547**Running shirt with sash**3
+1548**Raised hand with fingers splayed (dark skin tone)**3
+1549**Vampire**3
+1550**Man playing handball**3
+1551**Helmet with white cross**3
+1552**Man gesturing ok (dark skin tone)**3
+1553**Sagittarius**3
+1554**Flag of Cyprus**3
+1555**Woman shrugging (dark skin tone)**3
+1556**Female health worker (light skin tone)**3
+1557**Reversed hand with middle finger extended (dark skin tone)**3
+1558**Person with blond hair**3
+1559**Down-pointing double triangle**3
+1560**Synagogue**3
+1561**Desert**3
+1562**Bearded person (light skin tone)**3
+1563**Man biking (light skin tone)**3
+1564**Flower playing cards**3
+1565**Male cook (medium light skin tone)**3
+1566**Female singer (medium light skin tone)**3
+1567**Female farmer (medium light skin tone)**3
+1568**Runner (dark skin tone)**3
+1569**Person with ball**3
+1570**Man gesturing ok (light skin tone)**3
+1571**Woman walking (light skin tone)**3
+1572**Clock face eleven oclock**3
+1573**Mountain railway**3
+1574**Horse racing (medium dark skin tone)**3
+1575**Flag of Papua New Guinea**3
+1576**Person doing cartwheel (medium dark skin tone)**3
+1577**Crossed flags**3
+1578**Female singer (light skin tone)**3
+1579**Rosette**3
+1580**Closed mailbox with raised flag**3
+1581**Flag of Palestinian Territories**3
+1582**Flag of Honduras**3
+1583**Man (medium skin tone)**3
+1584**Flag of Chad**3
+1585**Woman getting face massage (light skin tone)**3
+1586**Mountain bicyclist (light skin tone)**3
+1587**Woman gesturing not ok (light skin tone)**3
+1588**South east arrow**3
+1589**Police officer (medium dark skin tone)**3
+1590**Up-pointing double triangle**3
+1591**Female office worker**3
+1592**Clockwise rightwards and leftwards open circle arrows with circled one overlay**3
+1593**Flag of Guinea**3
+1594**Mermaid (light skin tone)**3
+1595**Scooter**3
+1596**Flag of Mauritius**3
+1597**Girl (light skin tone)**3
+1598**Male cook (medium dark skin tone)**3
+1599**Bell with cancellation stroke**3
+1600**Name badge**3
+1601**Sleuth or spy (medium light skin tone)**3
+1602**Man gesturing not ok (dark skin tone)**3
+1603**Prince (medium skin tone)**3
+1604**Flag of Costa Rica**3
+1605**Female teacher (light skin tone)**3
+1606**Juggling**3
+1607**White flower**3
+1608**Squared cl**3
+1609**Weight lifter (medium skin tone)**3
+1610**Left-pointing triangle**3
+1611**Staff of aesculapius**3
+1612**Female cook (medium light skin tone)**3
+1613**Squared ng**3
+1614**Female astronaut (medium dark skin tone)**3
+1615**Flag of Niger**2
+1616**Thumbs down sign (dark skin tone)**2
+1617**Regional indicator symbol letter g**2
+1618**Man tipping hand (medium dark skin tone)**2
+1619**Man mage (light skin tone)**2
+1620**Man playing water polo**2
+1621**Pregnant woman (medium skin tone)**2
+1622**Sleuth or spy (medium dark skin tone)**2
+1623**Female technologist (dark skin tone)**2
+1624**Flag of Iraq**2
+1625**Man with turban (medium dark skin tone)**2
+1626**Man weight lifting (medium skin tone)**2
+1627**Moon viewing ceremony**2
+1628**Female scientist (medium light skin tone)**2
+1629**Woman bowing deeply**2
+1630**Chopsticks**2
+1631**Male mechanic**2
+1632**Clock face six-thirty**2
+1633**Flag of Malta**2
+1634**Woman in lotus position (light skin tone)**2
+1635**Man in lotus position (medium skin tone)**2
+1636**Flag of Mozambique**2
+1637**Man in business suit levitating (medium dark skin tone)**2
+1638**Woman facepalming (dark skin tone)**2
+1639**Flag of Guyana**2
+1640**Family (man, woman, girl, girl)**2
+1641**Flag of Turkmenistan**2
+1642**Negative squared latin capital letter p**2
+1643**Kaaba**2
+1644**Man doing cartwheel (light skin tone)**2
+1645**Woman mountain biking (medium light skin tone)**2
+1646**Male pilot (medium light skin tone)**2
+1647**Flag of Curaçao**2
+1648**Love-you gesture (dark skin tone)**2
+1649**Bride with veil (medium skin tone)**2
+1650**Woman (medium skin tone)**2
+1651**Female teacher (medium skin tone)**2
+1652**Female factory worker**2
+1653**Male construction worker (light skin tone)**2
+1654**Flag of Senegal**2
+1655**Man fairy**2
+1656**Male student (medium dark skin tone)**2
+1657**Female artist (light skin tone)**2
+1658**Mountain bicyclist (medium light skin tone)**2
+1659**Person frowning**2
+1660**Clock face eleven-thirty**2
+1661**Person bowing deeply (dark skin tone)**2
+1662**Man vampire (light skin tone)**2
+1663**Man swimming (medium light skin tone)**2
+1664**Pregnant woman (light skin tone)**2
+1665**Man golfing (light skin tone)**2
+1666**Flag of Panama**2
+1667**Female firefighter (light skin tone)**2
+1668**Family (woman, woman, girl)**2
+1669**Straight ruler**2
+1670**Sleuth or spy (dark skin tone)**2
+1671**Double vertical bar**2
+1672**Male technologist (medium dark skin tone)**2
+1673**Male scientist (medium light skin tone)**2
+1674**Female singer (medium skin tone)**2
+1675**End with leftwards arrow above**2
+1676**Woman weight lifting (medium skin tone)**2
+1677**Female artist (medium skin tone)**2
+1678**Flag of Greenland**2
+1679**Female construction worker (light skin tone)**2
+1680**Male police officer (medium skin tone)**2
+1681**Flag of Andorra**2
+1682**Rice cracker**2
+1683**Family (woman, woman, boy, boy)**2
+1684**Flag of Angola**2
+1685**Boy (dark skin tone)**2
+1686**Flag of Taiwan**2
+1687**Female artist (dark skin tone)**2
+1688**Male singer (medium skin tone)**2
+1689**Male guard (light skin tone)**2
+1690**Clock face twelve-thirty**2
+1691**Flag of Clipperton Island**2
+1692**Man in business suit levitating (medium light skin tone)**2
+1693**Bicyclist (medium dark skin tone)**2
+1694**Man getting haircut (medium skin tone)**2
+1695**Male technologist (medium light skin tone)**2
+1696**Flag of Dominica**2
+1697**Woman golfing (light skin tone)**2
+1698**Place of worship**2
+1699**Female teacher (medium light skin tone)**2
+1700**Baby symbol**2
+1701**Nose (light skin tone)**2
+1702**Do not litter symbol**2
+1703**Person with blond hair (medium dark skin tone)**2
+1704**Man getting face massage**2
+1705**Haircut (medium dark skin tone)**2
+1706**Woman doing cartwheel (dark skin tone)**2
+1707**Flag of Yemen**2
+1708**Female scientist (dark skin tone)**2
+1709**Blonde woman**2
+1710**Female office worker (light skin tone)**2
+1711**Trackball**2
+1712**Older man (medium skin tone)**2
+1713**Weight lifter (dark skin tone)**2
+1714**Male pilot**2
+1715**Female scientist (medium dark skin tone)**2
+1716**Man walking**2
+1717**Man mountain biking**2
+1718**Male astronaut (dark skin tone)**2
+1719**No bicycles**2
+1720**Shrug (medium skin tone)**2
+1721**Horse racing (dark skin tone)**2
+1722**Female student (dark skin tone)**2
+1723**Negative squared latin capital letter o**2
+1724**Currency exchange**2
+1725**Woman in lotus position (medium skin tone)**2
+1726**Male scientist (medium dark skin tone)**2
+1727**Weight lifter (light skin tone)**2
+1728**Child**2
+1729**Aries**2
+1730**Circled ideograph congratulation**2
+1731**Man pouting (medium skin tone)**2
+1732**Monorail**2
+1733**Flag of Maldives**2
+1734**Man running (medium skin tone)**2
+1735**Family (man, girl)**2
+1736**Flag of Bosnia & Herzegovina**2
+1737**Flag of Togo**2
+1738**Bearded person (medium skin tone)**2
+1739**Female construction worker**2
+1740**Selfie (medium dark skin tone)**2
+1741**Card index dividers**2
+1742**Menorah with nine branches**2
+1743**Blonde woman (medium light skin tone)**2
+1744**Kiss (woman, man)**2
+1745**Flag of Saudi Arabia**2
+1746**Man bowing deeply (medium skin tone)**2
+1747**Gloves**2
+1748**Man golfing (medium light skin tone)**2
+1749**Mother Christmas (medium light skin tone)**2
+1750**Flag of Tunisia**2
+1751**Oil drum**2
+1752**Man in tuxedo (medium dark skin tone)**2
+1753**Male teacher (medium light skin tone)**2
+1754**Woman getting face massage (medium skin tone)**2
+1755**White medium small square**2
+1756**Family (man, man, girl, boy)**2
+1757**Female student (medium light skin tone)**2
+1758**Man getting face massage (medium light skin tone)**2
+1759**Man frowning**2
+1760**Cricket**1
+1761**Woman bowing deeply (medium dark skin tone)**1
+1762**Breastfeeding**1
+1763**Female firefighter**1
+1764**Flag of U.S. Virgin Islands**1
+1765**Woman with ball (medium light skin tone)**1
+1766**Male mechanic (light skin tone)**1
+1767**Man pouting (medium light skin tone)**1
+1768**Fax machine**1
+1769**Woman elf (medium light skin tone)**1
+1770**Man fairy (light skin tone)**1
+1771**Outbox tray**1
+1772**Woman walking (medium light skin tone)**1
+1773**Female health worker (medium skin tone)**1
+1774**Person with ball (light skin tone)**1
+1775**Regional indicator symbol letter d**1
+1776**Woman (dark skin tone)**1
+1777**Male police officer (medium light skin tone)**1
+1778**Family (woman, woman, boy)**1
+1779**Woman gesturing ok (medium skin tone)**1
+1780**Man gesturing ok (medium skin tone)**1
+1781**Flag of Albania**1
+1782**Family (woman, boy)**1
+1783**Squared katakana sa**1
+1784**Girl (medium skin tone)**1
+1785**Man swimming (light skin tone)**1
+1786**Clock face seven-thirty**1
+1787**Guardsman (medium skin tone)**1
+1788**Flag of Anguilla**1
+1789**Female teacher (medium dark skin tone)**1
+1790**Man running (dark skin tone)**1
+1791**Department store**1
+1792**Woman getting face massage (medium dark skin tone)**1
+1793**Pouch**1
+1794**Man biking (medium skin tone)**1
+1795**Man bowing deeply (light skin tone)**1
+1796**Up down arrow**1
+1797**Woman golfing (medium skin tone)**1
+1798**Nose (medium dark skin tone)**1
+1799**Male singer (medium light skin tone)**1
+1800**Man fairy (medium dark skin tone)**1
+1801**Man in tuxedo (medium skin tone)**1
+1802**Left pointing backhand index (dark skin tone)**1
+1803**(medium skin tone)**1
+1804**Up pointing backhand index (dark skin tone)**1
+1805**Person doing cartwheel (light skin tone)**1
+1806**Female firefighter (medium light skin tone)**1
+1807**Female office worker (medium light skin tone)**1
+1808**Face with ok gesture (dark skin tone)**1
+1809**Takeout box**1
+1810**Flag of Aruba**1
+1811**Pedestrian (medium dark skin tone)**1
+1812**Person frowning (medium skin tone)**1
+1813**Open hands sign (dark skin tone)**1
+1814**Older woman (medium skin tone)**1
+1815**Flag of Ceuta & Melilla**1
+1816**Female farmer (medium dark skin tone)**1
+1817**Man with ball (light skin tone)**1
+1818**(light skin tone)**1
+1819**Woman surfing (dark skin tone)**1
+1820**Man mage (medium light skin tone)**1
+1821**Clock face eight-thirty**1
+1822**Woman running (dark skin tone)**1
+1823**Woman elf**1
+1824**Flag of Heard & McDonald Islands**1
+1825**Woman in lotus position (medium light skin tone)**1
+1826**Older woman (medium dark skin tone)**1
+1827**Flag of Paraguay**1
+1828**Flag of Grenada**1
+1829**Flag of Bolivia**1
+1830**Woman surfing (medium skin tone)**1
+1831**Flag of Nepal**1
+1832**Baby (dark skin tone)**1
+1833**Mermaid (dark skin tone)**1
+1834**Woman getting face massage**1
+1835**Female pilot (medium light skin tone)**1
+1836**Merman (medium skin tone)**1
+1837**Female pilot**1
+1838**Male judge (medium light skin tone)**1
+1839**Man in tuxedo (medium light skin tone)**1
+1840**Guardsman (light skin tone)**1
+1841**Woman with ball (light skin tone)**1
+1842**Woman playing handball (medium light skin tone)**1
+1843**Flag of St. Kitts & Nevis**1
+1844**Cancer**1
+1845**Squared cjk unified ideograph-6e80**1
+1846**Pisces**1
+1847**Funeral urn**1
+1848**No pedestrians**1
+1849**Female police officer (medium skin tone)**1
+1850**North west arrow**1
+1851**Clock face four-thirty**1
+1852**Man juggling (medium skin tone)**1
+1853**Man rowing boat**1
+1854**Blond man (light skin tone)**1
+1855**Left-facing fist (dark skin tone)**1
+1856**Bride with veil (medium dark skin tone)**1
+1857**Flag of Caribbean Netherlands**1
+1858**Woman swimming (medium skin tone)**1
+1859**Male farmer (medium skin tone)**1
+1860**Woman genie**1
+1861**Woman bowing deeply (medium light skin tone)**1
+1862**Flag of Mali**1
+1863**Male artist (medium skin tone)**1
+1864**Baggage claim**1
+1865**Shinto shrine**1
+1866**Woman fairy (light skin tone)**1
+1867**Sleeping accommodation (light skin tone)**1
+1868**Man weight lifting (light skin tone)**1
+1869**(medium dark skin tone)**1
+1870**Lock with ink pen**1
+1871**Family (woman, woman, girl, girl)**1
+1872**Woman weight lifting (medium dark skin tone)**1
+1873**Custard**1
+1874**Woman mage (medium light skin tone)**1
+1875**Pirate flag**1
+1876**Fish cake with swirl design**1
+1877**Man raising hand (dark skin tone)**1
+1878**Male office worker (light skin tone)**1
+1879**Vibration mode**1
+1880**Flag of Bhutan**1
+1881**Family (woman, girl, boy)**1
+1882**Man in lotus position**1
+1883**Male construction worker (medium light skin tone)**1
+1884**Rice ball**1
+1885**Breastfeeding (medium light skin tone)**1
+1886**Man playing handball (light skin tone)**1
+1887**Female guard (medium light skin tone)**1
+1888**Man in lotus position (light skin tone)**1
+1889**Blonde woman (medium dark skin tone)**1
+1890**Man with gua pi mao (light skin tone)**1
+1891**Flag of Bermuda**1
+1892**Male student (dark skin tone)**1
+1893**Breastfeeding (light skin tone)**1
+1894**Haircut (medium skin tone)**1
+1895**Pedestrian (dark skin tone)**1
+1896**Clock face one-thirty**1
+1897**Aerial tramway**1
+1898**Mermaid (medium skin tone)**1
+1899**Female astronaut (medium skin tone)**1
+1900**Male technologist (dark skin tone)**1
+1901**Woman playing water polo (medium light skin tone)**1
+1902**Face palm (medium light skin tone)**1
+1903**Shrug (light skin tone)**1
+1904**Compression**1
+1905**Man in lotus position (medium light skin tone)**1
+1906**Person doing cartwheel (medium skin tone)**1
+1907**Man with turban (medium light skin tone)**1
+1908**Flag of Ethiopia**1
+1909**Man getting haircut (light skin tone)**1
+1910**Police officer (medium skin tone)**1
+1911**Flag of Faroe Islands**1
+1912**Person with pouting face (light skin tone)**1
+1913**Aquarius**1
+1914**Bath (light skin tone)**1
+1915**Raised hand (dark skin tone)**1
+1916**Princess (dark skin tone)**1
+1917**Older man (medium dark skin tone)**1
+1918**Mountain cableway**1
+1919**Man swimming (medium skin tone)**1
+1920**Man surfing (medium skin tone)**1
+1921**Flag of Norfolk Island**1
+1922**Female pilot (light skin tone)**1
+1923**European post office**1
+1924**Male health worker (medium dark skin tone)**1
+1925**Man with turban**1
+1926**Kiss (man, man)**1
+1927**Pedestrian (medium light skin tone)**1
+1928**Female guard (dark skin tone)**1
+1929**Flag of Tajikistan**1
+1930**Guardsman (medium dark skin tone)**1
+1931**Face palm (medium skin tone)**1
+1932**Man running (medium dark skin tone)**1
+1933**Handball**1
+1934**Woman mountain biking (light skin tone)**1
+1935**Pine decoration**1
+1936**Woman surfing (medium light skin tone)**1
+1937**Clock face nine-thirty**1
+1938**Waxing gibbous moon symbol**1
+1939**Family (man, boy)**1
+1940**Squared cjk unified ideograph-6708**1
+1941**Flag of Central African Republic**1
+1942**Flag of Guinea-Bissau**1
+1943**Male firefighter (light skin tone)**1
+1944**Family (woman, boy, boy)**1
+1945**Female construction worker (medium skin tone)**1
+1946**Man playing handball (medium light skin tone)**1
+1947**Woman weight lifting (light skin tone)**1
+1948**Nose (medium light skin tone)**1
+1949**Flag of Kuwait**1
+1950**Woman vampire (light skin tone)**1
+1951**Girl (dark skin tone)**1
+1952**Construction worker (medium light skin tone)**1
+1953**Male student (medium light skin tone)**1
+1954**Flag of Algeria**1
+1955**Passport control**1
+1956**Person with pouting face (medium light skin tone)**1
+1957**Banknote with yen sign**1
+1958**Flag of Marshall Islands**1
+1959**Woman mage (medium dark skin tone)**1
+1960**Male teacher (light skin tone)**1
+1961**Bicyclist (dark skin tone)**1
+1962**Person with blond hair (light skin tone)**1
+1963**Flag of Guatemala**1
+1964**Flag of Botswana**1
+1965**Male health worker (medium light skin tone)**1
+1966**Male pilot (light skin tone)**1
+1967**Woman in steamy room (medium dark skin tone)**1
+1968**Man playing handball (medium dark skin tone)**1
+1969**Man weight lifting (medium dark skin tone)**1
+1970**Taurus**1
+1971**Man with gua pi mao**1
+1972**Flag of Antigua & Barbuda**1
+1973**Bus stop**1
+1974**Female health worker (medium dark skin tone)**1
+1975**Woman playing handball (medium skin tone)**1
+1976**Woman gesturing not ok (medium dark skin tone)**1
+1977**Man in lotus position (medium dark skin tone)**1
+1978**Woman gesturing not ok (medium light skin tone)**1
+1979**Male factory worker (light skin tone)**1
+1980**Star and crescent**1
+1981**Bearded person (dark skin tone)**1
+1982**Squared cjk unified ideograph-6307**1
+1983**Libra**1
+1984**Man with ball**1
+1985**Woman surfing (light skin tone)**1
+1986**Woman golfing (medium dark skin tone)**1
+1987**Male health worker (medium skin tone)**1
+1988**Man rowing boat (medium light skin tone)**1
+1989**Baby angel (dark skin tone)**1
+1990**Male scientist (light skin tone)**1
+1991**Person bowing deeply (light skin tone)**1
+1992**Family (woman, woman, girl, boy)**1
+1993**Male judge (light skin tone)**1
+1994**Flag of South Sudan**1
+1995**Flag of Bouvet Island**1
+1996**Man fairy (medium light skin tone)**1
+1997**Woman playing handball (light skin tone)**1
+1998**Arrow pointing rightwards then curving upwards**1
+1999**Flag of Canary Islands**1
+2000**Woman rowing boat (light skin tone)**1
+2001**Male sleuth (light skin tone)**1
