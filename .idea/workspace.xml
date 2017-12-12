@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e12cd960-0215-464d-9c6b-bb777ef89e55" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/code.iml" afterPath="$PROJECT_DIR$/.idea/code.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/HandleRawData.py" afterPath="$PROJECT_DIR$/HandleRawData.py" />
-      <change beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
-      <change beforePath="$PROJECT_DIR$/Ngram.py" afterPath="$PROJECT_DIR$/Ngram.py" />
-      <change beforePath="$PROJECT_DIR$/count_sort_emoji.txt" afterPath="$PROJECT_DIR$/count_sort_emoji.txt" />
-      <change beforePath="$PROJECT_DIR$/gold.txt" afterPath="$PROJECT_DIR$/gold.txt" />
-      <change beforePath="$PROJECT_DIR$/newUniData.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/probability.txt" afterPath="$PROJECT_DIR$/probability.txt" />
-      <change beforePath="$PROJECT_DIR$/probability_perplexity.txt" afterPath="$PROJECT_DIR$/probability_perplexity.txt" />
-      <change beforePath="$PROJECT_DIR$/rawClassifyData/0.txt" afterPath="$PROJECT_DIR$/rawClassifyData/0.txt" />
-      <change beforePath="$PROJECT_DIR$/rawClassifyData/1.txt" afterPath="$PROJECT_DIR$/rawClassifyData/1.txt" />
-      <change beforePath="$PROJECT_DIR$/rawClassifyData/2.txt" afterPath="$PROJECT_DIR$/rawClassifyData/2.txt" />
-      <change beforePath="$PROJECT_DIR$/rawClassifyData/3.txt" afterPath="$PROJECT_DIR$/rawClassifyData/3.txt" />
-      <change beforePath="$PROJECT_DIR$/rawClassifyData/4.txt" afterPath="$PROJECT_DIR$/rawClassifyData/4.txt" />
-      <change beforePath="$PROJECT_DIR$/rawClassifyData/5.txt" afterPath="$PROJECT_DIR$/rawClassifyData/5.txt" />
-      <change beforePath="$PROJECT_DIR$/rawClassifyData/6.txt" afterPath="$PROJECT_DIR$/rawClassifyData/6.txt" />
-      <change beforePath="$PROJECT_DIR$/rawClassifyData/7.txt" afterPath="$PROJECT_DIR$/rawClassifyData/7.txt" />
-      <change beforePath="$PROJECT_DIR$/rawClassifyData/8.txt" afterPath="$PROJECT_DIR$/rawClassifyData/8.txt" />
-      <change beforePath="$PROJECT_DIR$/rawClassifyData/9.txt" afterPath="$PROJECT_DIR$/rawClassifyData/9.txt" />
-      <change beforePath="$PROJECT_DIR$/result.txt" afterPath="$PROJECT_DIR$/result.txt" />
-      <change beforePath="$PROJECT_DIR$/testData/test.txt" afterPath="$PROJECT_DIR$/testData/test.txt" />
-      <change beforePath="$PROJECT_DIR$/trainingData/0.txt" afterPath="$PROJECT_DIR$/trainingData/0.txt" />
-      <change beforePath="$PROJECT_DIR$/trainingData/1.txt" afterPath="$PROJECT_DIR$/trainingData/1.txt" />
-      <change beforePath="$PROJECT_DIR$/trainingData/2.txt" afterPath="$PROJECT_DIR$/trainingData/2.txt" />
-      <change beforePath="$PROJECT_DIR$/trainingData/3.txt" afterPath="$PROJECT_DIR$/trainingData/3.txt" />
-      <change beforePath="$PROJECT_DIR$/trainingData/4.txt" afterPath="$PROJECT_DIR$/trainingData/4.txt" />
-      <change beforePath="$PROJECT_DIR$/trainingData/5.txt" afterPath="$PROJECT_DIR$/trainingData/5.txt" />
-      <change beforePath="$PROJECT_DIR$/trainingData/6.txt" afterPath="$PROJECT_DIR$/trainingData/6.txt" />
-      <change beforePath="$PROJECT_DIR$/trainingData/7.txt" afterPath="$PROJECT_DIR$/trainingData/7.txt" />
-      <change beforePath="$PROJECT_DIR$/trainingData/8.txt" afterPath="$PROJECT_DIR$/trainingData/8.txt" />
-      <change beforePath="$PROJECT_DIR$/trainingData/9.txt" afterPath="$PROJECT_DIR$/trainingData/9.txt" />
-    </list>
+    <list default="true" id="e12cd960-0215-464d-9c6b-bb777ef89e55" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +73,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="693" />
     <option name="y" value="23" />
     <option name="width" value="790" />
     <option name="height" value="730" />
@@ -245,10 +211,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="693" y="23" width="790" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09451946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48634592" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42185128" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
