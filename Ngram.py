@@ -277,9 +277,11 @@ class NgramModel:
     #preprocess
     #remove blankspace, remove \n, punctuation, numbers etc and replace all capitial letter to lowercase
     def pre_process(sentence):
-        #sentence = sentence.lower()
+        sentence = sentence.lower()
+        sentence = re.sub(r'[?!]', r' ',sentence)
+
+        sentence = re.sub(r'[,.\'\";\-]', r' ',sentence)
         sentence = re.sub(r'\n', r'', sentence)
-        #sentence = re.sub(r'[,.\'\";?\-\!]', r' ',sentence)
         sentence = re.sub(r'[0-9]', r'', sentence)
         word_tok = word_tokenize(sentence)
         return word_tok

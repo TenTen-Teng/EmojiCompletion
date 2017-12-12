@@ -13,7 +13,7 @@ from HandleRawData import HandleRawData
 from Ngram import NgramModel
 
 #open raw data file
-with open('./newUniData.json', 'r') as f:
+with open('./newUniData_5.json', 'r') as f:
     rawData = f.readlines()
 
 #handle raw data
@@ -23,12 +23,12 @@ handleRawData = HandleRawData(rawData)
 #"classifyComment" function: classify comments by emoji
 #parameter: top_number: int -> how many kind of comments<emoji>
 #return: comments[][] -> row is categoty; col is comment
-comments = handleRawData.classifyComment(10)
+comments = handleRawData.classifyComment(5)
 
 #"writeToFile" function: write classifyComment" function result to file
 #parameter: 1. top_number: int -> how many kind of comments<emoji>
 #           2. dirctory path: str -> file will be named as 0.txt; 1.txt...
-handleRawData.writeToFile(10, './rawClassifyData/')
+handleRawData.writeToFile(5, './rawClassifyData/')
 
 
 #输出为二维数组,[traingData][testData]
@@ -36,7 +36,7 @@ handleRawData.writeToFile(10, './rawClassifyData/')
 #parameter: 1. classifyComment:[][] ->  row is category; col is comments <result from "classifyComment" function>
 #           2. dataTotalNumber:int -> how many data do you want to put
 #return: [] -> [0] is training data([][]); [1]: test data
-data = handleRawData.sperateRawData(comments, 2500)
+data = handleRawData.sperateRawData(comments, 5000)
 
 #traing data
 train = data[0]
