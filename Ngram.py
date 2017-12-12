@@ -7,7 +7,6 @@
 import re
 from nltk import word_tokenize
 from collections import Counter
-from string import punctuation
 from decimal import *
 from nltk.util import ngrams
 
@@ -30,7 +29,7 @@ class GetNgram:
 # In[5]:
 
 
-#Good_turing Soomthing model
+#Good_turing Smoothing model
 class Good_turing:
     def __init__(self, freq, training):
         self.training = training
