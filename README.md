@@ -27,6 +27,12 @@ Use Katz's Back-off Model
 
 ###### AccuracyRate uses for calculate accuracy of each model
 
+## CNN
+
+Co-worker [Yifeng Liu](https://github.com/kuaiqiangshou) 
+
+Code link: https://github.com/TenTen-Teng/EmojiComplesion-CNN
+
 ## Acknowledgement:
 Yassine Benajiba (George Washington University, Intro to Statistical NLP, CSCI 6907)
 
